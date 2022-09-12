@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">COMP3025-WK1</string>
     <string name="Hello_World_Label">Hello, World!</string>
+    <string name="Click_Me_Button">Button</string>
 </resources>
